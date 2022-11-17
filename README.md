@@ -1,2 +1,0 @@
-# durgarepo
-sample repo 
